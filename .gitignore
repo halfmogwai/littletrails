@@ -1,0 +1,27 @@
+# Dependencies
+/node_modules
+
+# Build and distribution folders
+/dist
+/build
+/out
+/docs # if used for generated documentation
+
+# Local environment variables
+.env
+.env.local
+
+# IDE/Editor files
+.vscode/ # VS Code
+.idea/ # WebStorm/IntelliJ
+*.swp
+*.bak
+*.un~
+
+# OS generated files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# three.js specific (optional, depending on project structure)
+# If you are using three.js from the repo, you might ignore specific builds
+/examples/js # older three.js examples structure

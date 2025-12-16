@@ -1,0 +1,4 @@
+{
+  "/api/voice/synthesize/route": "app/api/voice/synthesize/route.js",
+  "/page": "app/page.js"
+}
