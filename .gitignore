@@ -10,6 +10,7 @@
 # Local environment variables
 .env
 .env.local
+/.next
 
 # IDE/Editor files
 .vscode/ # VS Code
